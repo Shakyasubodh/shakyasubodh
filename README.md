@@ -1,9 +1,6 @@
 # Hi, I'm Subodh! 👋
 * 🔥 Software Developer grinding hard to make something cool
-* ✨ Favorite Tech: JavaScript, React, Java ...
+* ✨ Favorite Tech: JavaScript, React, C++ ...
 * 📓 I’m currently learning DS and Algo... 😭
-* 📧 Email: sachinrastogipvt@gmail.com
-* 🎨 Portfolio: http://sachinrastogi.in/
-* 💼 Linkedin: https://www.linkedin.com/in/sachin-rastogi-065895162/
-* ✨ Twitter: https://twitter.com/sachinrastogiii ✨
-* 🧑‍ Hasnode Blogs: https://sachinrastogi.hashnode.dev/how-to-become-a-ux-designer
+* 📧 Email: subodhshakya710@gmail.com
+* 💼 Linkedin: linkedin.com/in/subodh-kumar-401651200   
